@@ -24,13 +24,6 @@ body{
   margin-top: 3vh;
 }
 
-.publicacion{
-  background-color: white;
-  border-radius: 10px;
-  padding: 5vh;
-  margin: 3vh;
-
-}
 
 .tweets{
     background-color:YELLOW;
@@ -55,4 +48,14 @@ text-decoration: line-through;
 .linkear{
     color:red;
     transition-duration: 5s;
+}
+
+.contenedor2{
+    background-color: white;
+    /* background-color: white; */
+    padding: 10px;
+    padding: 5px;
+    border : 10px solid #E2E8ED;
+    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
